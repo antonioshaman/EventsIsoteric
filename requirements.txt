@@ -1,0 +1,3 @@
+aiogram==3.6.0
+imgbbpy==0.1.3
+Requests==2.31.0

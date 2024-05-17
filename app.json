@@ -1,0 +1,5 @@
+{
+"name": "team",
+"script": "main.py",
+"interpreter": "python3.11"
+}
